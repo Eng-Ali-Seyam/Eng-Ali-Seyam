@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Eng-Ali-Seyam
 - 👀 I’m interested in Programming
-- I'm Flutter Developer
-- 🌱 I’m currently learning Larvel 
+- I'm a Web Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
